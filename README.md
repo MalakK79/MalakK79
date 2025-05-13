@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malk</h1>
-<h3 align="center">A passionate Software Engineering student @ LSU</h3>
+<h3 align="center">A second year Software Engineering student at Louisiana State University.</h3>
+
+- 🌱 I’m currently learning **Systems programing and computer design**
+
+- 💬 Ask me about **my university and work experience!**
 
 - 📫 How to reach me **mkhal11@lsu.edu**
 
