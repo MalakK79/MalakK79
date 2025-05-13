@@ -1,5 +1,6 @@
-<h1 align="left">Hi! welcome to my Github landing page!</h1>
-<h3 align="left">I'm Malk A second year Software Engineering student at Louisiana State University.</h3>
+<h1 align="left">✨About Me:</h1>
+<h3 align="left">Hi! welcome to my Github landing page!
+  I'm Malk A second year Software Engineering student at Louisiana State University.</h3>
 
 - 🌱 I’m currently learning **Systems programing and computer design**
 
